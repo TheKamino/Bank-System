@@ -1,0 +1,8 @@
+de\kamikazozi\bank\manager\EconomyManager.class
+de\kamikazozi\bank\listeners\PlayerInteractAtEntityListener.class
+de\kamikazozi\bank\utils\Data.class
+de\kamikazozi\bank\commands\CommandBank.class
+de\kamikazozi\bank\utils\ItemBuilder.class
+de\kamikazozi\bank\commands\CommandPay.class
+de\kamikazozi\bank\listeners\InventoryClickListener.class
+de\kamikazozi\bank\BankSystem.class

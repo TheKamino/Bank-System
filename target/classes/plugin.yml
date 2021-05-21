@@ -1,0 +1,12 @@
+name: BankSystem
+version: 1.0
+main: de.kamikazozi.bank.BankSystem
+author: KamiKazozi
+
+api-version: 1.16
+
+commands:
+  pay:
+    description: Bezahle einen Spieler Diamanten
+  bank:
+    description: Erstelle eine neue Bank
